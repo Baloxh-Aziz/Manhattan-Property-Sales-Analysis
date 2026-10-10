@@ -40,25 +40,6 @@ Each chart has a short written **insight** below it in the notebook.
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repo
-   ```bash
-   git clone https://github.com/Baloxh-Aziz/REPO-NAME.git
-   cd REPO-NAME
-   ```
-2. Install the libraries
-   ```bash
-   pip install pandas matplotlib xlrd openpyxl jupyter
-   ```
-3. Open the notebook
-   ```bash
-   jupyter notebook IDS_Assignment1.ipynb
-   ```
-4. Run all cells from top to bottom.
-
----
-
 ## 🔍 Key Findings
 
 - **Location matters:** some neighborhoods have much higher average prices than others.
